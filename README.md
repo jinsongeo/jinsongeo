@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jinsongeo
 - 👀 I’m interested in - Azure, .NET, K8, Docker, React
-- 🌱 I’m currently learning - .NET 6
 - 📫 How to reach me - jinsongeo@gmail.com,
 
 <!---
