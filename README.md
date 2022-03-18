@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jinsongeo
-- I’m interested in - Azure, .NET, K8, Docker, React
+- I’m interested in - Azure, .NET, K8, Docker, React, Angular
 - How to reach me - jinsongeo@gmail.com
 
 <!---
