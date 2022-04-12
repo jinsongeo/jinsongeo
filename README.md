@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinsongeo
-- I’m interested in - Azure, .NET, K8, Docker, React, Angular
-- How to reach me - jinsongeo@gmail.com
+- Interests - Azure, .NET, K8, Docker, React, Angular
+- Reach me - jinsongeo@gmail.com
 
 <!---
 jinsongeo/jinsongeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
